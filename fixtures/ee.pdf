@@ -1,0 +1,1 @@
+cy.writeFile('cypress/fixtures/example.pdf', 'This is a test PDF file.');
